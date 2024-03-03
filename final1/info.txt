@@ -1,0 +1,5 @@
+Name: shako
+Card number: 333
+PIN: 123
+ID number: 0101
+Balance: 3000.0
