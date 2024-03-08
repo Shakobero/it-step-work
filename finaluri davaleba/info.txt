@@ -1,0 +1,4 @@
+Name: shako
+Card number: 11
+ID number: 0101
+Balance: 30000.0
